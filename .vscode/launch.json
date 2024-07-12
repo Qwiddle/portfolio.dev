@@ -1,0 +1,8 @@
+{
+	"configurations": [{
+		"command": "bun run dev --turbo",
+		"name": "bun run next dev server",
+		"request": "launch",
+		"type": "node-terminal"
+	}]
+}
